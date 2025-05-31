@@ -1,6 +1,6 @@
 # 🌟 VASCSC ASTROpython – Space & Python Fun! (2025)
 
-Welcome to the Virginia Association of Science Centers Space Camp! 🎉  
+Welcome to the VASCSC Space Camp! 🎉  
 In this fun 5-day class, we’ll learn how to **code in Python** and use it to explore the **amazing universe**—with real space data from NASA! 🚀
 
 ---
