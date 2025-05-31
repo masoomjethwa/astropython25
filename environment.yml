@@ -1,0 +1,40 @@
+# VASCSC ASTROpython Course Environment
+# Based on packages used in asd-day1.ipynb through asd-day5.ipynb
+
+name: astronomy-class
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  # Core scientific computing (used throughout all notebooks)
+  - numpy
+  - pandas
+  - matplotlib
+  - scipy
+  
+  # Jupyter environment for notebooks
+  - jupyter
+  - ipython
+  - ipywidgets
+  
+  # Astronomy-specific libraries (Days 2-5)
+  - astropy
+  - astroquery
+  
+  # Advanced visualization (Days 3-4)
+  - seaborn
+  - plotly
+  
+  # Additional utilities
+  - requests
+  - beautifulsoup4
+  - scikit-learn
+  - bokeh
+  - pillow
+  
+  # Package manager
+  - pip
+  - pip:
+    # Astronomical calculations
+    - pyephem
