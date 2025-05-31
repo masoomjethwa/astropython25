@@ -101,7 +101,6 @@ astronomy-python-class/
 ├── notebooks/         → Lesson notebooks (Day 1 to Day 5)
 ├── datasets/          → Real space data files
 ├── environment.yml    → File to help set up Python tools
-├── setup_instructions.md → More setup help
 └── README.md          → This file
 ```
 
