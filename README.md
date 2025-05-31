@@ -127,6 +127,8 @@ Real space data we’ll use in our notebooks:
 * `star_classification.csv`: Star data from telescopes
 * `FITS files`: Space pictures from real observatories
 
+# Link to datasets
+https://drive.google.com/drive/folders/1taf18vjRn0ZJrtGYqz_hZq6RvgvMoCGs?usp=drive_link
 ---
 
 🌌 **Get ready to explore space with the power of Python!** 🌌
