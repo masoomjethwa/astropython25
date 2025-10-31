@@ -132,3 +132,4 @@ https://drive.google.com/drive/folders/1taf18vjRn0ZJrtGYqz_hZq6RvgvMoCGs?usp=dri
 
 🌌 **Get ready to explore space with the power of Python!** 🌌
 
+* Advanced Users can Use Zip folder for automation of the setup process *
